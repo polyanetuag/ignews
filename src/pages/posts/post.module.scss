@@ -24,7 +24,7 @@
     margin-top: 2rem;
     line-height: 2rem;
     font-size: 1.125rem;
-    color: var(--gray-100);
+    color: var(--gray-100); 
 
     p, ul {
       margin: 1.5rem 0;
@@ -38,5 +38,28 @@
       }
     }
 
+    &.previewContent {
+      background: linear-gradient(var(--gray-100), transparent);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+}
+
+.continueReading {
+  padding: 2rem;
+  text-align: center;
+  background: var(--gray-850);
+  border-radius: 100px;
+  font-weight: bold;
+  margin: 4rem 0 2rem;
+
+  a {
+    color: var(--yellow-500);
+    margin-left: 0.5rem;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
