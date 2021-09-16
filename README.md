@@ -1,11 +1,12 @@
 <p align="center">
-  <img width= '100' src="./public/images/logo.svg" />
+  <img width= '140' src="./public/images/logo.svg" />
 </p>
 
 <h3 align="center">  
   <p align="center">
     <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-licença">Licença</a>
   </p>
@@ -26,11 +27,10 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em Rea
 - Prismic
 - NodeJs
   
-## 🎨 Layouts
+## 🎨 Layout
 
 <div align="center">
-  <h3>Dashboard</h3>
-    <img width= '700' src="./public/images/aplication1.gif" /> 
+    <img width= '800' src="./public/images/aplication1.gif" /> 
 </div>
 
 ## ⏱ Como executar
