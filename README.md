@@ -27,13 +27,10 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em Rea
 - TypeScript
 - Sass
 - Stripe
-- Faunadb
+- FaunaDB
 - Prismic
 - NodeJs
   
-## 🎨 Layout
-
-
 
 ## ⏱ Como executar
 
