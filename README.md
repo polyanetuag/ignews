@@ -12,6 +12,10 @@
   </p>
 </h3>
 
+<div align="center">
+    <img width= '800' src="./public/images/aplication1.gif" /> 
+</div>
+
 ## 📚 Sobre
 
 O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em ReactJS com NextJS para listagem de posts e sistema de inscrição(subscription), onde o conteúdo do post varia de acordo com o status da assinatura.
@@ -29,9 +33,7 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em Rea
   
 ## 🎨 Layout
 
-<div align="center">
-    <img width= '800' src="./public/images/aplication1.gif" /> 
-</div>
+
 
 ## ⏱ Como executar
 
