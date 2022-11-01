@@ -29,7 +29,6 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em Rea
 - Stripe
 - FaunaDB
 - Prismic
-- NodeJs
   
 
 ## ⏱ Como executar
