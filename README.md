@@ -31,7 +31,7 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em Rea
 - Prismic
   
 
-## ⏱ Como executar
+## ⏱️ Como executar
 
 ```bash
 # Clonar o repositório
