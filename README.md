@@ -18,7 +18,7 @@
 
 ## 📚 Sobre
 
-O projeto tem como objetivo acessar listagens de posts e um sistema de inscrição(subscription), onde o conteúdo do post varia de acordo com o status da assinatura.
+O projeto tem como objetivo acessar listagens de posts relacionados ao React, como também a criação de um sistema de inscrição(subscription), onde o conteúdo do post varia de acordo com o status da assinatura.
 
 ## 🚀 Tecnologias utilizadas:
 
