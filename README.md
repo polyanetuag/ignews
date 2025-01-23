@@ -22,7 +22,7 @@ O projeto consiste em uma plataforma de listagens com posts relacionados ao Reac
 
 ## 🚀 Tecnologias utilizadas:
 
-- ReactJS
+- [ReactJS](https://legacy.reactjs.org/)
 - Next.js
 - TypeScript
 - Sass
