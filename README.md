@@ -24,7 +24,7 @@ O projeto consiste em uma plataforma de listagens com posts relacionados ao Reac
 
 - [ReactJS](https://legacy.reactjs.org/)
 - [Next.js](https://nextjs.org/)
-- TypeScript
+- [TypeScript](https://www.typescriptlang.org/)
 - Sass
 - Stripe
 - FaunaDB
