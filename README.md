@@ -28,7 +28,7 @@ O projeto consiste em uma plataforma de notícias, em forma de listagens, com po
 - [Sass](https://sass-lang.com/)
 - [Stripe](https://www.npmjs.com/package/@stripe/react-stripe-js)
 - [FaunaDB](https://docs.fauna.com/fauna/current/)
-- Prismic
+- [Prismic](https://prismic.io/)
   
 
 ## ⏱️ Como executar
