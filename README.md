@@ -18,7 +18,7 @@
 
 ## 📚 Sobre
 
-O projeto consiste em uma plataforma de notícias, em forma de listagens, com posts relacionados ao React. Possui também um sistema de inscrição(subscription), onde o conteúdo do post varia de acordo com o status da assinatura.
+O projeto consiste em uma plataforma de notícias, com postagens relacionadas ao React. Em forma de listagens, possui também um sistema de inscrição(subscription), onde o conteúdo do post varia de acordo com o status da assinatura.
 
 ## 🚀 Tecnologias utilizadas:
 
