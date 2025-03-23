@@ -20,7 +20,7 @@
 
 O projeto consiste em uma **plataforma de notícias** com postagens relacionadas a tecnologia ReactJS.
 
-Em forma de listagens, a plataforma possui também um sistema de inscrição, onde o conteúdo do post varia de acordo com o status da assinatura do usuário.
+Em forma de listagens, a plataforma possui também um sistema de inscrição, onde o conteúdo do post varia de acordo com a assinatura do usuário.
 
 ## 🚀 Tecnologias utilizadas:
 
