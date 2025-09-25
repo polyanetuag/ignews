@@ -49,8 +49,6 @@ $ yarn
 $ yarn dev
 ```
 
-Depois, abra http://localhost:3000 com seu navegador para ver o resultado.
-
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
