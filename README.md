@@ -51,7 +51,7 @@ $ yarn dev
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença [MIT](https://opensource.org/license/mit).
 
 ---
 Desenvolvido com 💜 por Polyane Tuag
