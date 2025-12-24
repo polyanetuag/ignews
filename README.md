@@ -18,7 +18,7 @@
 
 ## 📚 Sobre
 
-O projeto ***Ig News*** consiste em uma plataforma de notícias relacionadas à tecnologia [ReactJS](https://legacy.reactjs.org/).
+O projeto ***Ig News*** consiste em uma plataforma de notícias relacionadas à tecnologia *ReactJS*.
 
 Com postagens em forma de listagens, a plataforma também possui um sistema de inscrição, onde o conteúdo varia de acordo com a assinatura definida pelo usuário.
 
