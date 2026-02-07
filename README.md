@@ -18,7 +18,7 @@
 
 ## 📚 Sobre
 
-O projeto ***Ig News*** consiste em uma plataforma de notícias relacionadas à tecnologia *react*.
+O projeto ***Ig News*** consiste em uma plataforma de notícias relacionadas à tecnologia *React*.
 
 Com postagens em forma de listas, a plataforma também possui um sistema de inscrição, onde o conteúdo varia de acordo com a assinatura escolhida pelo usuário.
 
